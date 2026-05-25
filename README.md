@@ -1,4 +1,4 @@
-# pyhon-basics
+# python-basics
 Learning Python basics and projects
 
 Topics:
